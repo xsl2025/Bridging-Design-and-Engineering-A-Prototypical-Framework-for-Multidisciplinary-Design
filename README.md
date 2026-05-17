@@ -6,8 +6,10 @@ The marginal gain in Energy Use Intensity (EUI) prediction suggests that the ene
 Unlike tabular parameters, our visual-based deep learning framework successfully extracts complex latent features—such as mutual self-shading, non-linear aperture-to-core adjacencies, and the homogeneity of open-plan layouts—which are inherently difficult to encode within the rigid feature sets of tabular machine learning models.
 
 By introducing the Expert Prototype as a high-quality prior, this framework leverages a structured-parametric logic (Spatial Structure + Parameters) to achieve higher interpretability and better prediction.
-<img width="559" height="478" alt="image" src="https://github.com/user-attachments/assets/62cf6ee0-65c3-4d3d-b90a-87c506122592" />
-<img width="945" height="945" alt="image" src="https://github.com/user-attachments/assets/88246e27-5936-467e-b672-f8723f021aa2" />
+<img width="400" alt="image" alt="image" src="https://github.com/user-attachments/assets/62cf6ee0-65c3-4d3d-b90a-87c506122592" />
+<img width="700" alt="image" alt="image" src="https://github.com/user-attachments/assets/88246e27-5936-467e-b672-f8723f021aa2" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/008dd022-7ce2-4ba9-9a2e-500e218f932e" />
+
 
 ## Download
 Large gh files are hosted on Google Drive:
