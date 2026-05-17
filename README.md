@@ -14,4 +14,8 @@ By introducing the Expert Prototype as a high-quality prior, this framework leve
 ## Download
 Large gh files are hosted on Google Drive:
 https://drive.google.com/file/d/1HWkdBYXkPRhMe_Ul_l2LK9fJBox0oY9i/view?usp=drive_link
+Machine learning done on platform google colab, see example:
+https://colab.research.google.com/drive/1rrcMURYTJtTIQTUidzwFV_bJNXdJrsuc?usp=drive_link
+
+Data and manuscript only possible upon request.
 Copyright © 2026 Xusheng Li. All rights reserved.
